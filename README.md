@@ -52,3 +52,10 @@ void myFunc()
 ```
 
 After running your code, you will get a result.json file that contains the profiling data. You can then load this file into `chrome://tracing` to visualize the data and identify performance bottlenecks.
+
+`chrome://tracing` controls:
+
+- `W` to zoom in
+- `S` to zoom out
+- `A` to move left
+- `D` to move right
