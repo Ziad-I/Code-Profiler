@@ -2,6 +2,8 @@
 
 A Code Profiler in C++  that allows you to profile your code and generate a JSON file that can be visualized in Chrome using the `chrome://tracing` tool. With this tool, you can get a detailed view of your code's execution time and identify performance bottlenecks.
 
+<img src="screenshots/profile1.png?raw=true" alt= “profile1”>
+
 ## Installation
 
 To use Code Profiler in your project, download the `Profiler.h` file and include it in your project. The `Profiler.h` file contains the necessary code to profile your functions and output the profiling data to a JSON file.
